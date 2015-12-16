@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorTiles</string>
+    <string name="red_key">Vermelho</string>
+    <string name="green_key">Verde</string>
+    <string name="blue_key">Azul</string>
+</resources>
