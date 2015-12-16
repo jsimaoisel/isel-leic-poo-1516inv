@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Circle Counter v2</string>
+    <string name="LOAD_KEY">Charge</string>
+    <string name="SAVE_KEY">Sauver</string>
+</resources>
